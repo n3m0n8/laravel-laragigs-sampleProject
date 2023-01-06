@@ -1,0 +1,1 @@
+The convention for handling multiple  views is to place the views into a category-based directory and then to name the files on the basis of the conventional index/show/crud+ actions... this allows us especially to scale the websites and compartmentalise it without clutter.

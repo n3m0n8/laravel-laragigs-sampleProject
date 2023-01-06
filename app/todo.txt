@@ -1,0 +1,4 @@
+- make a subscription service
+- paginate the manage jobs page
+- change styling and customise theme of jobs portal
+- on the listings edit page, change the back to all jobs link to a back to my listings and make that link redirect to the relevant listings
